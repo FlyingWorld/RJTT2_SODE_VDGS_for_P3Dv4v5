@@ -1,5 +1,8 @@
 Copyright(C) Flying World All rights reserved.
+	*Modification is allowed.
+	*Redistribution is unable.
 
+RJTT2 SODE VDGS for P3Dv4/v5 Ver. 1.0
 RJTT SODE VDGS Placement.
 
 === CAUTION ===
@@ -9,3 +12,6 @@ RJTT SODE VDGS Placement.
 === INSTALLATION ===
 *** Please read the instruction carefully to install. Incorrect installation could cause some errors! ***
 	1. Place "FSAC_RJTT2_SODE_VDGS.xml" into the %programdata%\12bPilot\SODE\xml.
+
+=== RELEASE NOTE ===
+	- 2022/02/18 Ver. 1.0 has been released.
