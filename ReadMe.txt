@@ -1,6 +1,6 @@
 Copyright(C) Flying World All rights reserved.
-	*Modification is allowed.
-	*Redistribution is unable.
+	*Modification is possible.
+	*Redistribution is impossible.
 
 RJTT2 SODE VDGS for P3Dv4/v5 Ver. 1.0
 RJTT SODE VDGS Placement.
