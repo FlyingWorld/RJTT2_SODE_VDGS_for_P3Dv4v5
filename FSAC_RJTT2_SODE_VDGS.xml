@@ -1,0 +1,1341 @@
+
+<!-- Created by SODE Placer (c) Jeffrey Staehli -->
+<SODE>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="1">
+		<!-- StandLocation;35.54561622440814;139.78776812553406;329.6221618652344;30.0-->
+		<SimObject Name="VDGS GATE 1">
+			<Placement Lat="35.5460396195" Lon="139.7874537457" Alt="26.24672#AGL" Hdg="329.5"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.8">
+					<Stop Distance="39.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="39.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="39.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="2">
+		<!-- StandLocation;35.54525479674339;139.78719145059586;329.99999999999994;35.0-->
+		<SimObject Name="VDGS GATE 2">
+			<Placement Lat="35.5457166056" Lon="139.7868548366" Alt="27.230972#AGL" Hdg="329.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.6">
+					<Stop Distance="35.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="35.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="35.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="3">
+		<!-- StandLocation;35.54496109485626;139.7865217924118;329.99999999999994;35.0-->
+		<SimObject Name="VDGS GATE 3">
+			<Placement Lat="35.5454091658" Lon="139.7861960675" Alt="27.230972#AGL" Hdg="329.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.6">
+					<Stop Distance="35.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="35.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="35.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="4">
+		<!-- StandLocation;35.544652976095676;139.78585481643677;333.1614990234374;35.0-->
+		<SimObject Name="VDGS GATE 4">
+			<Placement Lat="35.5451027428" Lon="139.7855466932" Alt="27.230972#AGL" Hdg="333.1"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="2.4">
+					<Stop Distance="36.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="36.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="36.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="5">
+		<!-- StandLocation;35.5444048717618;139.78520438075066;26.78663063049316;35.0-->
+		<SimObject Name="VDGS GATE 5">
+			<Placement Lat="35.5447763637" Lon="139.7854352811" Alt="26.24672#AGL" Hdg="26.6"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="-0.1">
+					<Stop Distance="16.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="16.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="16.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="6">
+		<!-- StandLocation;35.54480418562889;139.78477299213407;59.47605133056641;23.0-->
+		<SimObject Name="VDGS GATE 6">
+			<Placement Lat="35.5450369519" Lon="139.7853006731" Alt="20.669292#AGL" Hdg="59.4"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="-2.2">
+					<Stop Distance="41.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="7">
+		<!-- StandLocation;35.54527524858713;139.78461250662804;77.47818756103514;35.0-->
+		<SimObject Name="VDGS GATE 7">
+			<Placement Lat="35.5453709096" Lon="139.7852252747" Alt="27.230972#AGL" Hdg="77.4"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="-1.9">
+					<Stop Distance="37.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="37.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="37.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="8">
+		<!-- StandLocation;35.54587505757809;139.78478282690048;89.87843322753908;35.0-->
+		<SimObject Name="VDGS GATE 8">
+			<Placement Lat="35.5458517708" Lon="139.7854543555" Alt="27.230971999999998#AGL" Hdg="89.8"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="-2.8">
+					<Stop Distance="43.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="43.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="43.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="9">
+		<!-- StandLocation;35.54652616381645;139.7845454514027;59.89881896972656;35.0-->
+		<SimObject Name="VDGS GATE 9">
+			<Placement Lat="35.5467912878" Lon="139.7850564583" Alt="26.24672#AGL" Hdg="60.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="2.2">
+					<Stop Distance="35.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="35.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="35.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="10">
+		<!-- StandLocation;35.54714675992727;139.7841078042984;59.99999999999999;35.0-->
+		<SimObject Name="VDGS GATE 10">
+			<Placement Lat="35.5474063424" Lon="139.7846226699" Alt="26.24672#AGL" Hdg="60.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="1.5">
+					<Stop Distance="35.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="35.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="35.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="11">
+		<!-- StandLocation;35.54758463054895;139.7833813726902;21.0;35.0-->
+		<SimObject Name="VDGS GATE 11">
+			<Placement Lat="35.548080294" Lon="139.7836076163" Alt="27.230971999999998#AGL" Hdg="21.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.5">
+					<Stop Distance="34.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="34.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="34.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="12">
+		<!-- StandLocation;35.547804571688175;139.78281185030937;53.79999923706055;35.0-->
+		<SimObject Name="VDGS GATE 12">
+			<Placement Lat="35.5481383988" Lon="139.7833341051" Alt="27.230971999999998#AGL" Hdg="53.7"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="1.6">
+					<Stop Distance="41.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="13">
+		<!-- StandLocation;35.54831184446812;139.78238582611084;70.0;35.0-->
+		<SimObject Name="VDGS GATE 13">
+			<Placement Lat="35.5484992601" Lon="139.7829676243" Alt="27.230971999999998#AGL" Hdg="69.8"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="1.2">
+					<Stop Distance="30.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="30.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="30.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="14">
+		<!-- StandLocation;35.54885096848011;139.78247076272967;102.33455657958984;35.0-->
+		<SimObject Name="VDGS GATE 14">
+			<Placement Lat="35.5487522235" Lon="139.7830522905" Alt="27.230971999999998#AGL" Hdg="102.3"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.5">
+					<Stop Distance="31.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="31.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="31.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="15">
+		<!-- StandLocation;35.549540631473064;139.7823205590248;60.34000015258788;35.0-->
+		<SimObject Name="VDGS GATE 15">
+			<Placement Lat="35.549845731" Lon="139.7829018005" Alt="26.24672#AGL" Hdg="60.1"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="3.0">
+					<Stop Distance="36.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="36.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="36.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="16">
+		<!-- StandLocation;35.550156868994236;139.78191956877708;59.99999999999999;35.0-->
+		<SimObject Name="VDGS GATE 16">
+			<Placement Lat="35.5504455086" Lon="139.7824796536" Alt="26.24672#AGL" Hdg="59.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="2.1">
+					<Stop Distance="36.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="36.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="36.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="17">
+		<!-- StandLocation;35.550681576132774;139.78131875395778;24.28538703918457;35.0-->
+		<SimObject Name="VDGS GATE 17">
+			<Placement Lat="35.5512159129" Lon="139.7815566189" Alt="27.230971999999998#AGL" Hdg="24.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="5.2">
+					<Stop Distance="43.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="43.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="43.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="18">
+		<!-- StandLocation;35.55084351450205;139.78071123361588;55.95051574707031;35.0-->
+		<SimObject Name="VDGS GATE 18">
+			<Placement Lat="35.5510703083" Lon="139.7810898008" Alt="11.48294#AGL" Hdg="55.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="1.6">
+					<Stop Distance="24.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="24.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="24.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="19">
+		<!-- StandLocation;35.55121835321188;139.78029504418373;67.56948852539062;26.0-->
+		<SimObject Name="VDGS GATE 19">
+			<Placement Lat="35.5514499841" Lon="139.7808789448" Alt="27.230971999999998#AGL" Hdg="68.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="4.0">
+					<Stop Distance="44.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="44.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="44.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="20">
+		<!-- StandLocation;35.551621690392494;139.77998614311218;97.83362579345703;26.0-->
+		<SimObject Name="VDGS GATE 20">
+			<Placement Lat="35.5515967507" Lon="139.7804585926" Alt="11.48294#AGL" Hdg="98.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="3.0">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="21">
+		<!-- StandLocation;35.55195227265358;139.78019893169403;140.96238708496094;26.0-->
+		<SimObject Name="VDGS GATE 21">
+			<Placement Lat="35.5517080738" Lon="139.7804423603" Alt="11.48294#AGL" Hdg="141.4"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.4">
+					<Stop Distance="18.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="18.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="18.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="22">
+		<!-- StandLocation;35.552134327590466;139.78082254529;149.57623291015625;26.0-->
+		<SimObject Name="VDGS GATE 22">
+			<Placement Lat="35.5517729475" Lon="139.7810656377" Alt="27.230972#AGL" Hdg="149.8"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="-1.2">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="23">
+		<!-- StandLocation;35.55240824818611;139.7813545167446;150.84167480468753;26.0-->
+		<SimObject Name="VDGS GATE 23">
+			<Placement Lat="35.552034632" Lon="139.7816214387" Alt="27.230971999999998#AGL" Hdg="149.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="24">
+		<!-- StandLocation;35.55272709578276;139.78192627429962;127.93824768066408;26.0-->
+		<SimObject Name="VDGS GATE 24">
+			<Placement Lat="35.5525617628" Lon="139.7822137816" Alt="11.48294#AGL" Hdg="127.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="1.5">
+					<Stop Distance="15.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="15.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="15.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="51">
+		<!-- StandLocation;35.554833970963955;139.7862012684345;150.00000000000003;30.0-->
+		<SimObject Name="VDGS GATE 51">
+			<Placement Lat="35.5544633262" Lon="139.7864600309" Alt="30.183728#AGL" Hdg="150.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="-0.4">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="52">
+		<!-- StandLocation;35.55512834340334;139.78681281208992;150.00000000000003;32.0-->
+		<SimObject Name="VDGS GATE 52">
+			<Placement Lat="35.5547931829" Lon="139.7870521123" Alt="32.8084#AGL" Hdg="150.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.2">
+					<Stop Distance="24.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="24.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="24.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="53">
+		<!-- StandLocation;35.555437132716186;139.78746995329857;150.00000000000003;32.0-->
+		<SimObject Name="VDGS GATE 53">
+			<Placement Lat="35.5551011087" Lon="139.787710122" Alt="32.8084#AGL" Hdg="150.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.1">
+					<Stop Distance="25.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="25.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="25.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="54">
+		<!-- StandLocation;35.555716417729855;139.78808775544167;150.00000000000003;30.0-->
+		<SimObject Name="VDGS GATE 54">
+			<Placement Lat="35.5553928598" Lon="139.7883225949" Alt="33.136483999999996#AGL" Hdg="150.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.3">
+					<Stop Distance="24.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="24.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="24.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="55">
+		<!-- StandLocation;35.55598698556423;139.78866130113602;150.00000000000003;30.0-->
+		<SimObject Name="VDGS GATE 55">
+			<Placement Lat="35.5556734106" Lon="139.7888913467" Alt="28.543307999999996#AGL" Hdg="150.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.5">
+					<Stop Distance="23.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="23.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="23.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="56">
+		<!-- StandLocation;35.554908737540245;139.78942394256592;329.99999999999994;30.0-->
+		<SimObject Name="VDGS GATE 56">
+			<Placement Lat="35.5552865176" Lon="139.7891517487" Alt="28.871392000000004#AGL" Hdg="329.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.2">
+					<Stop Distance="31.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="31.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="31.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="57">
+		<!-- StandLocation;35.55454831570387;139.78885263204572;329.99999999999994;35.0-->
+		<SimObject Name="VDGS GATE 57">
+			<Placement Lat="35.5549802091" Lon="139.7885416751" Alt="30.183728#AGL" Hdg="329.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.4">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="58">
+		<!-- StandLocation;35.55404406040907;139.78799879550934;285.310546875;35.0-->
+		<SimObject Name="VDGS GATE 58">
+			<Placement Lat="35.5541497341" Lon="139.7874974984" Alt="30.183728#AGL" Hdg="285.3"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.7">
+					<Stop Distance="25.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="25.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="25.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="59">
+		<!-- StandLocation;35.55319111794233;139.78844985365868;239.99999999999997;35.0-->
+		<SimObject Name="VDGS GATE 59">
+			<Placement Lat="35.5529586456" Lon="139.7879745062" Alt="30.183728#AGL" Hdg="239.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.7">
+					<Stop Distance="27.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="27.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="27.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="60">
+		<!-- StandLocation;35.55264227092266;139.78883877396584;239.99999999999997;35.0-->
+		<SimObject Name="VDGS GATE 60">
+			<Placement Lat="35.5524072194" Lon="139.7883623834" Alt="30.183728#AGL" Hdg="239.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.9">
+					<Stop Distance="27.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="27.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="27.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="61">
+		<!-- StandLocation;35.55209040641785;139.78922590613368;239.99999999999997;35.0-->
+		<SimObject Name="VDGS GATE 61">
+			<Placement Lat="35.5518582718" Lon="139.7887491299" Alt="30.183728#AGL" Hdg="239.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.6">
+					<Stop Distance="28.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="28.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="28.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="62">
+		<!-- StandLocation;35.55153954774141;139.78961527347565;239.99999999999997;35.0-->
+		<SimObject Name="VDGS GATE 62">
+			<Placement Lat="35.5513089263" Lon="139.7891379486" Alt="30.183728#AGL" Hdg="239.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.4">
+					<Stop Distance="28.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="28.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="28.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="63">
+		<!-- StandLocation;35.550990365445614;139.7900041937828;239.99999999999997;35.0-->
+		<SimObject Name="VDGS GATE 63">
+			<Placement Lat="35.5507591724" Lon="139.7895259146" Alt="30.183728000000002#AGL" Hdg="239.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.4">
+					<Stop Distance="28.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="28.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="28.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="64">
+		<!-- StandLocation;35.55043950676917;139.7903935611248;239.99999999999997;35.0-->
+		<SimObject Name="VDGS GATE 64">
+			<Placement Lat="35.5502074311" Lon="139.7899144433" Alt="30.183728#AGL" Hdg="239.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.6">
+					<Stop Distance="28.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="28.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="28.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="65">
+		<!-- StandLocation;35.54989233613014;139.79077979922295;239.99999999999997;35.0-->
+		<SimObject Name="VDGS GATE 65">
+			<Placement Lat="35.5496597721" Lon="139.7903018677" Alt="30.183728#AGL" Hdg="239.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.6">
+					<Stop Distance="28.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="28.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="28.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="66">
+		<!-- StandLocation;35.549149699509144;139.79156345129013;187.6002197265625;35.0-->
+		<SimObject Name="VDGS GATE 66">
+			<Placement Lat="35.5487011065" Lon="139.7915053158" Alt="30.183728#AGL" Hdg="187.6"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="1.1">
+					<Stop Distance="24.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="24.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="24.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="67">
+		<!-- StandLocation;35.549467876553535;139.79247942566874;150.00000000000003;36.0-->
+		<SimObject Name="VDGS GATE 67">
+			<Placement Lat="35.549097708" Lon="139.7927478527" Alt="30.183728#AGL" Hdg="150.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.5">
+					<Stop Distance="26.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="26.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="26.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="68">
+		<!-- StandLocation;35.54972033947706;139.7931168973446;158.70562744140625;35.0-->
+		<SimObject Name="VDGS GATE 68">
+			<Placement Lat="35.5492065648" Lon="139.7933669447" Alt="28.871392000000004#AGL" Hdg="158.7"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.4">
+					<Stop Distance="43.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="43.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="43.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="69">
+		<!-- StandLocation;35.54858308285475;139.79392871260643;329.99999999999994;30.0-->
+		<SimObject Name="VDGS GATE 69">
+			<Placement Lat="35.5490347313" Lon="139.7936043227" Alt="28.871392000000004#AGL" Hdg="329.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.3">
+					<Stop Distance="35.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="35.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="35.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="70">
+		<!-- StandLocation;35.5482692644;139.79340568184853;329.99999999999994;25.0-->
+		<SimObject Name="VDGS GATE 70">
+			<Placement Lat="35.5487356183" Lon="139.7930693425" Alt="30.183728#AGL" Hdg="329.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.3">
+					<Stop Distance="47.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="47.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="47.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="71">
+		<!-- StandLocation;35.548033230006695;139.79288890957832;329.99999999999994;25.0-->
+		<SimObject Name="VDGS GATE 71">
+			<Placement Lat="35.548494963" Lon="139.7925572543" Alt="30.183728#AGL" Hdg="329.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.4">
+					<Stop Distance="45.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="45.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="45.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="72">
+		<!-- StandLocation;35.54776031523943;139.79218035936358;329.99999999999994;35.0-->
+		<SimObject Name="VDGS GATE 72">
+			<Placement Lat="35.5481772174" Lon="139.7918825132" Alt="30.183728#AGL" Hdg="329.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.2">
+					<Stop Distance="31.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="31.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="31.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="73">
+		<!-- StandLocation;35.54743979126215;139.7915017604828;329.99999999999994;35.0-->
+		<SimObject Name="VDGS GATE 73">
+			<Placement Lat="35.5479010239" Lon="139.7911702596" Alt="30.183728#AGL" Hdg="329.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.4">
+					<Stop Distance="37.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="37.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="37.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="81">
+		<!-- StandLocation;35.553481802344315;139.79038953781128;59.99999999999999;26.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="82">
+		<!-- StandLocation;35.55291350930929;139.79079723358154;59.99999999999999;26.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="83">
+		<!-- StandLocation;35.551691092550755;139.79167297482488;59.99999999999999;26.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="84">
+		<!-- StandLocation;35.551118105649955;139.79208111763;59.99999999999999;26.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="101">
+		<!-- StandLocation;35.543290749192245;139.77567538619041;150.00000000000003;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="102">
+		<!-- StandLocation;35.54294541478157;139.77494850754738;150.00000000000003;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="103">
+		<!-- StandLocation;35.54260041564703;139.7742238640785;150.00000000000003;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="104">
+		<!-- StandLocation;35.54222255945206;139.77352380752563;150.00000000000003;18.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="105">
+		<!-- StandLocation;35.541976131498814;139.7726011276245;239.89999389648438;23.0-->
+		<SimObject Name="VDGS GATE 105">
+			<Placement Lat="35.5416795902" Lon="139.7719821742" Alt="28.215224#AGL" Hdg="240.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.5">
+					<Stop Distance="43.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="43.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="43.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="106">
+		<!-- StandLocation;35.54258566349745;139.7721764445305;239.89999389648438;36.0-->
+		<SimObject Name="VDGS GATE 106">
+			<Placement Lat="35.5422916152" Lon="139.7715592416" Alt="27.88714#AGL" Hdg="240.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.2">
+					<Stop Distance="42.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="42.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="42.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="107">
+		<!-- StandLocation;35.54339200258255;139.77189525961873;239.85313415527344;35.0-->
+		<SimObject Name="VDGS GATE 107">
+			<Placement Lat="35.5430944547" Lon="139.7712883875" Alt="27.88714#AGL" Hdg="240.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.9">
+					<Stop Distance="44.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="44.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="44.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="108">
+		<!-- StandLocation;35.54406523704529;139.77141693234444;239.85313415527344;36.0-->
+		<SimObject Name="VDGS GATE 108">
+			<Placement Lat="35.5437832772" Lon="139.7708247779" Alt="27.88714#AGL" Hdg="240.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.3">
+					<Stop Distance="41.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="109">
+		<!-- StandLocation;35.54463017731905;139.77101236581802;239.85313415527344;36.0-->
+		<SimObject Name="VDGS GATE 109">
+			<Placement Lat="35.5443468194" Lon="139.7704313242" Alt="27.88714#AGL" Hdg="240.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.7">
+					<Stop Distance="41.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="110">
+		<!-- StandLocation;35.545207522809505;139.77062836289406;239.85313415527344;36.0-->
+		<SimObject Name="VDGS GATE 110">
+			<Placement Lat="35.5449156319" Lon="139.7700256385" Alt="27.88714#AGL" Hdg="239.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.7">
+					<Stop Distance="41.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="111">
+		<!-- StandLocation;35.54577447474003;139.7702233493328;239.85313415527344;36.0-->
+		<SimObject Name="VDGS GATE 111">
+			<Placement Lat="35.5455155623" Lon="139.7696908882" Alt="27.88714#AGL" Hdg="240.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.7">
+					<Stop Distance="34.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="34.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="34.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="112">
+		<!-- StandLocation;35.54644200950861;139.76974949240685;239.85313415527344;36.0-->
+		<SimObject Name="VDGS GATE 112">
+			<Placement Lat="35.5461533996" Lon="139.7691535747" Alt="27.88714#AGL" Hdg="240.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.7">
+					<Stop Distance="41.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="41.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="113">
+		<!-- StandLocation;35.54700326174498;139.76935163140297;239.85313415527344;36.0-->
+		<SimObject Name="VDGS GATE 113">
+			<Placement Lat="35.5467132963" Lon="139.7687588833" Alt="27.88714#AGL" Hdg="240.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.9">
+					<Stop Distance="40.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="40.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="40.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="114">
+		<!-- StandLocation;35.54756183177233;139.76894930005074;239.85313415527344;36.0-->
+		<SimObject Name="VDGS GATE 114">
+			<Placement Lat="35.547275677" Lon="139.7683623526" Alt="27.88714#AGL" Hdg="239.8"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.7">
+					<Stop Distance="40.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="40.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="40.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="115">
+		<!-- StandLocation;35.54827731102705;139.7709158062935;329.1921081542969;30.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="116">
+		<!-- StandLocation;35.54854352027178;139.7715537250042;329.6099853515625;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="121">
+		<!-- StandLocation;35.544460862874985;139.7737294435501;59.24578094482421;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="122">
+		<!-- StandLocation;35.54504860192537;139.7733199596405;59.24578094482421;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="123">
+		<!-- StandLocation;35.546366907656186;139.77243036031723;60.200000762939446;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="124">
+		<!-- StandLocation;35.54683227092028;139.7721000015736;60.23191070556642;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="131">
+		<!-- StandLocation;35.544906444847584;139.77467224001887;240.25314331054682;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="132">
+		<!-- StandLocation;35.54549418389797;139.77426454424858;240.25314331054682;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="133">
+		<!-- StandLocation;35.54676420986652;139.77327391505244;240.1999969482422;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="134">
+		<!-- StandLocation;35.547234266996384;139.77294266223907;240.1999969482422;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="141">
+		<!-- StandLocation;35.55011261254549;139.77041512727737;149.8484344482422;36.0-->
+		<SimObject Name="VDGS GATE 141">
+			<Placement Lat="35.5497490855" Lon="139.7706818465" Alt="27.88714#AGL" Hdg="149.8"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="142">
+		<!-- StandLocation;35.54977532476187;139.76969853043556;149.72312927246094;36.0-->
+		<SimObject Name="VDGS GATE 142">
+			<Placement Lat="35.5494121025" Lon="139.7699655443" Alt="27.88714#AGL" Hdg="149.6"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="143">
+		<!-- StandLocation;35.549437031149864;139.7689828276634;149.93702697753906;36.0-->
+		<SimObject Name="VDGS GATE 143">
+			<Placement Lat="35.5490742268" Lon="139.7692495107" Alt="27.88714#AGL" Hdg="149.9"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.8">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="144">
+		<!-- StandLocation;35.54909739643335;139.76826399564743;149.89999389648438;36.0-->
+		<SimObject Name="VDGS GATE 144">
+			<Placement Lat="35.5487366835" Lon="139.7685322012" Alt="27.88714#AGL" Hdg="149.8"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="1.0">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="145">
+		<!-- StandLocation;35.54875943809748;139.76754650473592;150.0725555419922;36.0-->
+		<SimObject Name="VDGS GATE 145">
+			<Placement Lat="35.5484002148" Lon="139.7678166258" Alt="27.88714#AGL" Hdg="150.0"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="1.2">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="146">
+		<!-- StandLocation;35.54834268987179;139.76666182279587;149.8025665283203;36.0-->
+		<SimObject Name="VDGS GATE 146">
+			<Placement Lat="35.5479814777" Lon="139.766928388" Alt="27.88714#AGL" Hdg="149.8"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.7">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="147">
+		<!-- StandLocation;35.54800774902105;139.7659532725811;149.89999389648438;36.0-->
+		<SimObject Name="VDGS GATE 147">
+			<Placement Lat="35.5476453282" Lon="139.7662147037" Alt="27.88714#AGL" Hdg="149.8"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.5">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="148">
+		<!-- StandLocation;35.54767582565545;139.76523399353027;149.8271484375;36.0-->
+		<SimObject Name="VDGS GATE 148">
+			<Placement Lat="35.5473065806" Lon="139.7655036658" Alt="27.88714#AGL" Hdg="149.8"/>
+			<Model SimTitle="12bPilot_SODE_SafeDockT2" StaticSimTitle="12bPilot_SODE_SafeDockT2_Static">
+				<VDGS DistanceUnit="M" CaptureDistance="50.0" LateralOffset="0.5">
+					<Stop Distance="29.0" AircraftTypes="ALL_REGIONAL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_SMALL"/>
+					<Stop Distance="29.0" AircraftTypes="ALL_LARGE"/>
+				</VDGS>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="151">
+		<!-- StandLocation;35.55164482444525;139.76978436112404;329.8999938964844;32.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="152">
+		<!-- StandLocation;35.55132765322924;139.76911559700966;329.8999938964844;32.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="153">
+		<!-- StandLocation;35.5510101467371;139.76844549179077;329.8999938964844;32.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="154">
+		<!-- StandLocation;35.550697669386864;139.7677794098854;329.8999938964844;32.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE" AfcadParkingNumber="155">
+		<!-- StandLocation;35.550382509827614;139.7671119868755;329.8999938964844;32.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE_V" AfcadParkingNumber="1">
+		<!-- StandLocation;35.556510016322136;139.78590220212934;239.99999999999997;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE_V" AfcadParkingNumber="2">
+		<!-- StandLocation;35.55705450475216;139.7854095697403;239.99999999999997;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE_W" AfcadParkingNumber="2">
+		<!-- StandLocation;35.54144002497196;139.79583531618118;239.89054870605472;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="GATE_W" AfcadParkingNumber="3">
+		<!-- StandLocation;35.540879778563976;139.79623362421987;239.89054870605472;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="301">
+		<!-- StandLocation;35.56269787251949;139.77794632315636;329.99999999999994;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="302">
+		<!-- StandLocation;35.56301336735487;139.77861732244492;329.99999999999994;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="303">
+		<!-- StandLocation;35.56332886219025;139.779286980629;329.99999999999994;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="304">
+		<!-- StandLocation;35.563604794442654;139.779983907938;329.99999999999994;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="305">
+		<!-- StandLocation;35.563929341733456;139.78055119514462;329.99999999999994;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="311">
+		<!-- StandLocation;35.56292753666639;139.77738842368126;150.00000000000003;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="312">
+		<!-- StandLocation;35.56322056800127;139.7780080139637;150.00000000000003;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="313">
+		<!-- StandLocation;35.563537403941154;139.77867856621745;150.00000000000003;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="314">
+		<!-- StandLocation;35.56385222822428;139.77934777736664;150.00000000000003;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="315">
+		<!-- StandLocation;35.564144253730774;139.77996826171875;150.00000000000003;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="321">
+		<!-- StandLocation;35.564858727157116;139.77795034646988;329.99999999999994;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="322">
+		<!-- StandLocation;35.565160140395164;139.7785972058773;329.99999999999994;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="331">
+		<!-- StandLocation;35.566268898546696;139.78078320622444;44.83917999267578;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="332">
+		<!-- StandLocation;35.5652342364192;139.7821699082851;59.99999999999999;23.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="333">
+		<!-- StandLocation;35.56481044739485;139.78259101510048;60.98759841918945;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="341">
+		<!-- StandLocation;35.56689150631428;139.78113859891891;224.50000000000003;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="342">
+		<!-- StandLocation;35.5665086209774;139.78161290287971;224.50000000000003;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="343">
+		<!-- StandLocation;35.565385445952415;139.7827859222889;223.98536682128903;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="344">
+		<!-- StandLocation;35.565100125968456;139.78340685367584;223.93536376953125;23.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="401">
+		<!-- StandLocation;35.56151434779167;139.7822503745556;239.99999999999997;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="402">
+		<!-- StandLocation;35.56096449494361;139.78262051939961;239.99999999999997;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="403">
+		<!-- StandLocation;35.56042034178972;139.78300720453262;239.99999999999997;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="404">
+		<!-- StandLocation;35.55984769016504;139.78333577513698;239.99999999999997;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="405">
+		<!-- StandLocation;35.559327341616154;139.78378102183342;239.99999999999997;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="406">
+		<!-- StandLocation;35.55870607495308;139.7842262685299;239.99999999999997;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="407">
+		<!-- StandLocation;35.55816192179918;139.78461921215057;239.99999999999997;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="408">
+		<!-- StandLocation;35.55761810392142;139.78500723838806;239.99999999999997;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="501">
+		<!-- StandLocation;35.56247156113386;139.78394284844396;59.99999999999999;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="502">
+		<!-- StandLocation;35.56194182485342;139.7842825949192;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="503">
+		<!-- StandLocation;35.56139465421439;139.7846706211567;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="504">
+		<!-- StandLocation;35.560848489403725;139.78505641222003;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="505">
+		<!-- StandLocation;35.55950034409761;139.78606536984444;59.99999999999999;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="506">
+		<!-- StandLocation;35.558964908123016;139.7864019870758;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="507">
+		<!-- StandLocation;35.55842645466328;139.7868052124977;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="508">
+		<!-- StandLocation;35.55788028985262;139.78718966245648;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NE_PARKING" AfcadParkingNumber="509">
+		<!-- StandLocation;35.55733345448971;139.78757500648499;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NW_PARKING" AfcadParkingNumber="31">
+		<!-- StandLocation;35.55336210876703;139.78001117706302;59.90000152587891;26.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NW_PARKING" AfcadParkingNumber="32">
+		<!-- StandLocation;35.55390223860741;139.77965399622917;59.90000152587891;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NW_PARKING" AfcadParkingNumber="33">
+		<!-- StandLocation;35.55445309728384;139.77927759289742;59.90000152587891;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NW_PARKING" AfcadParkingNumber="34">
+		<!-- StandLocation;35.554994232952595;139.77888241410255;59.90000152587891;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NW_PARKING" AfcadParkingNumber="35">
+		<!-- StandLocation;35.55553939193487;139.7784984111786;59.90000152587891;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NW_PARKING" AfcadParkingNumber="36">
+		<!-- StandLocation;35.55608354508877;139.77810636162755;59.90000152587891;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NW_PARKING" AfcadParkingNumber="37">
+		<!-- StandLocation;35.55663138628006;139.7777272760868;59.90000152587891;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NW_PARKING" AfcadParkingNumber="38">
+		<!-- StandLocation;35.557172857224934;139.77733299136162;59.90000152587891;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NW_PARKING" AfcadParkingNumber="39">
+		<!-- StandLocation;35.55771432816983;139.77693155407906;59.90000152587891;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NW_PARKING" AfcadParkingNumber="40">
+		<!-- StandLocation;35.55826149880886;139.77655604481697;59.90000152587891;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="NW_PARKING" AfcadParkingNumber="41">
+		<!-- StandLocation;35.55880296975374;139.77615907788277;59.90000152587891;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="0">
+		<!-- StandLocation;35.56085754185915;139.75691869854927;325.8247375488281;12.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="1">
+		<!-- StandLocation;35.56019268929958;139.75700005888936;325.8247375488281;16.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="2">
+		<!-- StandLocation;35.55988993495703;139.75773096084592;325.8247375488281;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="3">
+		<!-- StandLocation;35.5592280998826;139.75781232118607;325.8247375488281;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="4">
+		<!-- StandLocation;35.558928698301315;139.7585378587246;325.8247375488281;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="5">
+		<!-- StandLocation;35.557645596563816;139.75939750671387;235.6900024414062;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="6">
+		<!-- StandLocation;35.557124242186546;139.75983291864398;235.6900024414062;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="7">
+		<!-- StandLocation;35.55665820837021;139.7603264451027;235.6900024414062;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="11">
+		<!-- StandLocation;35.55971290916205;139.7558909654617;236.7144317626953;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="12">
+		<!-- StandLocation;35.559461787343025;139.75609838962558;235.40444946289062;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="13">
+		<!-- StandLocation;35.5584841221571;139.75604608654976;236.27267456054688;16.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="21">
+		<!-- StandLocation;35.555604100227356;139.75815966725347;306.500732421875;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="22">
+		<!-- StandLocation;35.55513706058264;139.75773364305496;306.500732421875;18.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="23">
+		<!-- StandLocation;35.55467002093792;139.75730448961258;306.500732421875;16.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="24">
+		<!-- StandLocation;35.55420935153961;139.75688248872757;306.500732421875;12.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="25">
+		<!-- StandLocation;35.5529423430562;139.75658610463145;229.80094909667966;17.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="26">
+		<!-- StandLocation;35.55266171693802;139.75618466734886;227.91812133789062;12.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="27">
+		<!-- StandLocation;35.55215209722519;139.75596204400063;228.78009033203125;12.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="28">
+		<!-- StandLocation;35.55165622383357;139.75512877106667;285.56304931640625;12.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="29">
+		<!-- StandLocation;35.5512173473835;139.7550769150257;283.56787109375;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="34">
+		<!-- StandLocation;35.55241495370865;139.75659683346748;306.511474609375;12.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="35">
+		<!-- StandLocation;35.552000887691975;139.75639298558238;307.2402038574219;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="36">
+		<!-- StandLocation;35.551788322627544;139.75602596998215;307.41888427734375;10.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="37">
+		<!-- StandLocation;35.551356822252274;139.75555524230003;284.23269653320307;12.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="903">
+		<!-- StandLocation;35.55324275046587;139.75904792547226;305.1316223144532;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="904">
+		<!-- StandLocation;35.553776174783714;139.7595079243183;305.1316223144532;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="905">
+		<!-- StandLocation;35.554312951862805;139.75996837019923;305.1316223144532;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="906">
+		<!-- StandLocation;35.554846711456776;139.76043239235878;305.1316223144532;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="907">
+		<!-- StandLocation;35.55538114160299;139.76088926196098;305.1316223144532;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="908">
+		<!-- StandLocation;35.55591892451048;139.76135462522507;305.1316223144532;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="909">
+		<!-- StandLocation;35.556452348828316;139.76181373000145;305.1316223144532;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="N_PARKING" AfcadParkingNumber="910">
+		<!-- StandLocation;35.556980073451996;139.76226836442947;305.1316223144532;35.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="PARKING" AfcadParkingNumber="2">
+		<!-- StandLocation;35.54596893489361;139.78704303503036;332.9352111816406;5.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="PARKING" AfcadParkingNumber="916">
+		<!-- StandLocation;35.54787464439869;139.76827830076218;150.00000000000003;5.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="PARKING" AfcadParkingNumber="917">
+		<!-- StandLocation;35.54784346371889;139.76821839809415;150.00000000000003;5.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="PARKING" AfcadParkingNumber="918">
+		<!-- StandLocation;35.54781161248683;139.76815044879913;150.00000000000003;5.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="PARKING" AfcadParkingNumber="926">
+		<!-- StandLocation;35.551606602966785;139.78131249547005;239.38061523437506;5.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="PARKING" AfcadParkingNumber="927">
+		<!-- StandLocation;35.55149763822555;139.78137776255608;238.93556213378912;5.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="PARKING" AfcadParkingNumber="928">
+		<!-- StandLocation;35.55438872426748;139.78735238313678;15.422698020935059;5.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="PARKING" AfcadParkingNumber="929">
+		<!-- StandLocation;35.548664219677455;139.79116424918175;102.35852813720703;5.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="PARKING" AfcadParkingNumber="930">
+		<!-- StandLocation;35.545542798936374;139.78554993867874;234.85218811035156;5.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="PARKING" AfcadParkingNumber="931">
+		<!-- StandLocation;35.54543484002352;139.78562951087952;234.1824645996094;5.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="1">
+		<!-- StandLocation;35.54004326462746;139.79679733514786;239.47814941406247;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="2">
+		<!-- StandLocation;35.53953867405652;139.7964544594288;60.4289779663086;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="3">
+		<!-- StandLocation;35.538832917809486;139.79687958955765;60.4289779663086;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="4">
+		<!-- StandLocation;35.538179129362106;139.79742094874382;60.4289779663086;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="5">
+		<!-- StandLocation;35.538143925368786;139.7981370985508;239.47814941406247;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="6">
+		<!-- StandLocation;35.53745627403259;139.79791849851608;60.4289779663086;38.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="7">
+		<!-- StandLocation;35.537560880184174;139.79854971170423;239.47814941406247;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="601">
+		<!-- StandLocation;35.544050820171826;139.7938732802868;239.89054870605472;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="602">
+		<!-- StandLocation;35.54358411580324;139.79421481490135;239.89054870605472;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="603">
+		<!-- StandLocation;35.54311607033014;139.79454696178436;239.89054870605472;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="604">
+		<!-- StandLocation;35.542563535273075;139.7950342297554;239.89054870605472;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="605">
+		<!-- StandLocation;35.54199993610382;139.79543656110764;239.89054870605472;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="701">
+		<!-- StandLocation;35.54553072899579;139.79539588093755;59.99999999999999;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="702">
+		<!-- StandLocation;35.544984228909016;139.7957830131054;59.99999999999999;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="703">
+		<!-- StandLocation;35.544440411031246;139.7961701452732;59.99999999999999;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="704">
+		<!-- StandLocation;35.54387379437685;139.7965081036091;59.99999999999999;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="705">
+		<!-- StandLocation;35.54335176944733;139.79695066809657;59.99999999999999;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="706">
+		<!-- StandLocation;35.54280694574118;139.79732796549797;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="707">
+		<!-- StandLocation;35.54226379841566;139.79772001504898;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="708">
+		<!-- StandLocation;35.5406504496932;139.7989484667778;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="709">
+		<!-- StandLocation;35.54004494100809;139.79935750365257;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="710">
+		<!-- StandLocation;35.53951319307089;139.79973927140236;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="711">
+		<!-- StandLocation;35.538958981633186;139.80012863874433;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="712">
+		<!-- StandLocation;35.53839169442654;139.80052784085274;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="801">
+		<!-- StandLocation;35.54548814892769;139.79604676365852;239.99999999999997;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="802">
+		<!-- StandLocation;35.544981211423874;139.7965121269226;239.99999999999997;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="803">
+		<!-- StandLocation;35.54440353065729;139.7968290746212;239.99999999999997;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="804">
+		<!-- StandLocation;35.54388955235481;139.79728415608403;239.99999999999997;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="805">
+		<!-- StandLocation;35.54331388324499;139.79761004447937;239.99999999999997;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="806">
+		<!-- StandLocation;35.54273184388876;139.79802578687668;239.99999999999997;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="807">
+		<!-- StandLocation;35.54223831743002;139.79846701025963;239.99999999999997;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="808">
+		<!-- StandLocation;35.54055355489254;139.79955509305;239.99999999999997;26.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="809">
+		<!-- StandLocation;35.53996413946152;139.79997128248215;239.99999999999997;26.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SE_PARKING" AfcadParkingNumber="810">
+		<!-- StandLocation;35.539420992135994;139.80036199092865;239.99999999999997;26.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="201">
+		<!-- StandLocation;35.53438346832991;139.79229524731636;14.621757507324222;28.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="202">
+		<!-- StandLocation;35.534902811050415;139.79179099202156;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="203">
+		<!-- StandLocation;35.535450987517834;139.7914065420628;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="204">
+		<!-- StandLocation;35.535999834537506;139.7910283505917;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="205">
+		<!-- StandLocation;35.536543652415276;139.790640771389;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="206">
+		<!-- StandLocation;35.537084117531776;139.79024022817612;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="207">
+		<!-- StandLocation;35.53762927651405;139.7898544371128;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="208">
+		<!-- StandLocation;35.53817678242921;139.78946954011917;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="209">
+		<!-- StandLocation;35.53871825337411;139.78907525539398;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="210">
+		<!-- StandLocation;35.53926173597574;139.78868454694748;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="211">
+		<!-- StandLocation;35.53980354219675;139.78828936815262;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="212">
+		<!-- StandLocation;35.540428161621094;139.78785127401352;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="213">
+		<!-- StandLocation;35.540972985327244;139.7874628007412;59.99999999999999;36.0-->
+	</Stand>
+	<Stand AfcadICAO="RJTT" AfcadGateName="SW_PARKING" AfcadParkingNumber="214">
+		<!-- StandLocation;35.54151512682438;139.7870698571205;59.99999999999999;36.0-->
+	</Stand>
+</SODE>
