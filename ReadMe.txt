@@ -3,6 +3,7 @@ Copyright(C) Flying World All rights reserved.
 RJTT SODE VDGS Placement.
 
 === CAUTION ===
+	- Compatible with Prepar3D v4/v5 only.
 	- SODE VDGS PACK must be installed.
 
 === INSTALLATION ===
