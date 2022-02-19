@@ -14,5 +14,5 @@ RJTT SODE VDGS Placement.
 
 === RELEASE NOTE ===
 	- 2022/02/19 Ver. 1.1 has been released.
-		In this version, some flickerling VDGS when is seen from taxi-way has been fixed.
+		In this version, some flickering VDGS when is seen from taxi-way has been fixed.
 	- 2022/02/18 Ver. 1.0 has been released.
