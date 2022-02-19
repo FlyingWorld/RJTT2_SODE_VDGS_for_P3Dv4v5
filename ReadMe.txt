@@ -1,7 +1,7 @@
 *Modification is possible.
 *Redistribution is impossible.
 
-RJTT2 SODE VDGS for P3Dv4/v5 Ver. 1.0
+RJTT2 SODE VDGS for P3Dv4/v5 Ver. 1.1
 RJTT SODE VDGS Placement.
 
 === CAUTION ===
